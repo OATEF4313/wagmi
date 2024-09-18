@@ -88,8 +88,8 @@
   },
   "dependencies": {
     "eventemitter3": "5.0.1",
-    "mipd": "0.0.5",
-    "zustand": "4.4.1"
+    "mipd": "0.0.7",
+    "zustand": "4.5.5"
   },
   "devDependencies": {
     "@tanstack/query-core": ">=5.45.0"
