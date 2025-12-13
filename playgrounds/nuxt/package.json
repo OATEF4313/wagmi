@@ -12,8 +12,8 @@
   "dependencies": {
     "@tanstack/vue-query": ">=5.45.0",
     "@wagmi/vue": "workspace:*",
-    "nuxt": "^3.11.2",
-    "viem": "2.*",
+    "nuxt": "^3.19.0",
+    "viem": "2.15.1",
     "vue": ">=3.4.21",
     "vue-router": "^4.3.2"
   }
